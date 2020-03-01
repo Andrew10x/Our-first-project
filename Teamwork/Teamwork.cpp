@@ -7,7 +7,7 @@ int main()
    for (int i = 0; i < 5; i++)
        cout << i + 1 << " ";
    // ggggg
-}
+} // dddddddd
 /// fdffdfdf
 void sort_min(int* temp, int t)
 {
