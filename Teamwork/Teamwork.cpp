@@ -8,6 +8,6 @@ int main()
 		cout << i + 1 << " ";
 	cout << 1213;
 }
-
+void funk(int y);
 
 
