@@ -2,13 +2,11 @@
 using namespace std;
 int main()
 {
-   cout << "Hello World!\n";
-   cout << "Second" << endl;
-   for (int i = 0; i < 5; i++)
-       cout << i + 1 << " ";
-   // ggggg
-} // dddddddd
-/// fdffdfdf
+	cout << "Hello World!\n";
+	cout << "Second" << endl;
+	for (int i = 0; i < 5; i++)
+		cout << i + 1 << " ";
+}
 void sort_min(int* temp, int t)
 {
 	int min;
